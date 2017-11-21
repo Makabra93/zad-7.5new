@@ -8,7 +8,7 @@ you have to type following command:
 To start this program and set it to read from all html files
 you have to type following command:
 
-"node_modules/.bin/nu-html-checker --formatter *.html" 
+"nu-html-checker *.html" 
 
 
 
